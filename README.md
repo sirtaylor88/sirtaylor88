@@ -1,4 +1,4 @@
-## Software Engineer at Astek France, currently on mission at Michelin
+## Software Engineer
 
 <!--
 **sirtaylor88/sirtaylor88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
